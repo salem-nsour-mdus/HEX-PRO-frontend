@@ -177,7 +177,7 @@ export default function App() {
 
         <section className="card">
           <div className="cardInner">
-            <label className="label">Prompt</label>
+            {/* <label className="label">Prompt</label> */}
 
             <PromptBox
               value={query}

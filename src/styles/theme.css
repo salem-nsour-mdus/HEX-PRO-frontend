@@ -1,6 +1,6 @@
 :root{
   --bg0:#070a12;
-  --bg1:#0b1220;
+  --bg1:#222f49;
 
   --card: rgba(255,255,255,0.06);
   --stroke: rgba(255,255,255,0.12);
@@ -17,3 +17,4 @@
   --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono","Courier New", monospace;
   --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
 }
+/* --bg1:#0b1220;*/
